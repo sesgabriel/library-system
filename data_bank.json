@@ -1,0 +1,25 @@
+{
+    "books": [
+        {
+            "title": "Harry Potter",
+            "author": "J.K Rowling",
+            "is_loaned": false,
+            "borrowed_by": null
+        },
+        {
+            "title": "Spider-Man",
+            "author": "Stan Lee",
+            "is_loaned": false,
+            "borrowed_by": null
+        }
+    ],
+    "users": [
+        {
+            "username": "Gabriel",
+            "user_id": 7146,
+            "borrowed_books": [
+                "Spider-Man"
+            ]
+        }
+    ]
+}
